@@ -1,6 +1,6 @@
-<img width="400px" src="https://encore.dev/assets/branding/logo/logo.svg" alt="Encore - Backend development engine" />
+<img width="200px" src="https://encore.dev/assets/branding/logo/logo.svg" alt="Encore - Backend development engine" />
 
-# Example App: Diary
+# Diary Example App
 
 This is a lightweight Go application that allows you to easily log and record a journal or diary.
 It contains two endpoints: one for listing the journal for a single day, and one for creating a new entry in the journal.
