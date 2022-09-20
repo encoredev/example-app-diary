@@ -46,7 +46,7 @@ curl -X POST --data '{"Text":"I cooked fried eggs this morning. I forgot how muc
 ```bash
 brew install go@1.19.1
 brew install encoredev/tap/encore
-git clone git@github.com:encorecommunity/example-app-diary.git
+git clone git@github.com:encoredev/example-app-diary.git
 encore auth signup # or encore auth login (if you already have an account)
 encore run
 ```
