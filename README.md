@@ -9,7 +9,7 @@ This was built in 30 minutes, with tests included, using [Encore](https://encore
 
 ## Endpoints
 
-Create new diary entry:
+Listing all my entries for a specific date:
 
 ```bash
 curl -X GET "http://localhost:4000/logbook/entries/2022-09-08" | jq
@@ -27,7 +27,7 @@ curl -X GET "http://localhost:4000/logbook/entries/2022-09-08" | jq
 }
 ```
 
-Listing all my entries for a specific date:
+Create new diary entry:
 
 ```bash
 curl -X POST --data '{"Text":"I cooked fried eggs this morning. I forgot how much I loved them!"}' "http://localhost:4000/logbook/entries"
