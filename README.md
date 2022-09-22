@@ -63,7 +63,7 @@ Then head over to <https://app.encore.dev> to find out your production URL, and 
 ## Testing
 
 ```bash
-encore test
+encore test ./...
 ```
 
 ## Contributing
