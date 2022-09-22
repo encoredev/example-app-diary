@@ -71,5 +71,5 @@ encore test
 All contributions are welcome! All we ask is that you adhere to the [Code of Conduct](https://github.com/encoredev/encore/blob/main/CODE_OF_CONDUCT.md)
 
 - [Quick Start with Encore](https://encore.dev/docs/quick-start)
-- [Create an Account with Encore]()
+- [Create an Account with Encore](https://encore.dev/login)
 - [Go Cheatsheet](https://encore.dev/guide/go.mod)
